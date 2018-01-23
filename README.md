@@ -1,4 +1,4 @@
-# eslint-config-devMynd
+# eslint-config-devmynd
 
 ## Installation
 
