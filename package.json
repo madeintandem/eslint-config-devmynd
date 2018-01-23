@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-devmynd",
+  "version": "0.1.0",
+  "description": "DevMynd's standard eslint config",
+  "main": "index.js",
+  "repository": "https://github.com/devmynd/eslint-config-devmynd",
+  "author": "Michael Crismali <michael@devmynd.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "babel-eslint": ">=7.2.3",
+    "eslint": ">=4.6.1",
+    "eslint-config-standard": ">=10.2.1",
+    "eslint-plugin-import": ">=2.7.0",
+    "eslint-plugin-node": ">=5.1.1",
+    "eslint-plugin-promise": ">=3.5.0",
+    "eslint-plugin-react": ">=7.3.0",
+    "eslint-plugin-standard": ">=3.0.1"
+  }
+}
