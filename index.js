@@ -1,5 +1,6 @@
 module.exports = {
   "extends": [
+    "flowtype",
     "standard",
     "plugin:react/recommended"
   ],
@@ -9,6 +10,7 @@ module.exports = {
   ],
   "globals": {
     "fetch": false,
+    "localStorage": false,
     "FormData": false
   },
   "rules": {

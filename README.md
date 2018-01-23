@@ -11,7 +11,7 @@ yarn add --dev eslint-config-devmynd
 Add its `peerDependencies`:
 
 ```sh
-yarn add --dev eslint babel-eslint eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-react eslint-plugin-standard
+yarn add --dev eslint babel-eslint eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-react eslint-plugin-standard eslint-plugin-flowtype
 ```
 
 Create a root level `.eslintrc.json` file with:

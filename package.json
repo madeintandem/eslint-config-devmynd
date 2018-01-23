@@ -6,10 +6,17 @@
   "repository": "https://github.com/devmynd/eslint-config-devmynd",
   "author": "Michael Crismali <michael@devmynd.com>",
   "license": "MIT",
+  "keywords": [
+    "eslint",
+    "devmynd",
+    "react",
+    "linter"
+  ],
   "peerDependencies": {
     "babel-eslint": ">=7.2.3",
     "eslint": ">=4.6.1",
     "eslint-config-standard": ">=10.2.1",
+    "eslint-plugin-flowtype": ">=2.41.0",
     "eslint-plugin-import": ">=2.7.0",
     "eslint-plugin-node": ">=5.1.1",
     "eslint-plugin-promise": ">=3.5.0",
